@@ -4,10 +4,12 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Ground
   - Blue
   - Yellow
   - Red
+  - Teleporter
+  - GroundSurface
+  - MovingPlatform
   layers:
   - Default
   - TransparentFX
@@ -23,7 +25,7 @@ TagManager:
   - BluePlayer
   - YellowPlayer
   - RedPlayer
-  - 
+  - Ground
   - 
   - 
   - 
